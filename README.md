@@ -1,102 +1,106 @@
-# Hi, I'm Dakarai 👋
+# Hi, I'm Dakarai Mitcham
 
-I'm a Computer Science graduate focused on full-stack development, AI/ML tools, and building practical software projects. I enjoy creating apps that combine clean frontend design, strong backend logic, and real-world usefulness.
+Computer Science graduate focused on full-stack software development, AI tooling, and practical portfolio projects. I like building applications that connect a useful frontend experience with clear backend APIs, persistence, and deployment-ready structure.
 
-I'm currently building projects around AI evaluation, team collaboration, and knowledge graphs while sharpening my skills in React, FastAPI, Python, JavaScript, databases, and cloud deployment.
+I am currently sharpening my skills in React, FastAPI, Python, JavaScript, SQL databases, API design, and cloud deployment while building projects that demonstrate real product workflows.
 
----
+## Featured Project
 
-## 🚀 Featured Projects
+### EvalForge - LLM Evaluation Platform
 
-### EvalForge — LLM Evaluation Platform
-A full-stack platform for testing, comparing, and evaluating responses from different language models.
+EvalForge is a full-stack app for comparing model outputs, scoring responses with a human rubric, saving experiments, and reviewing analytics in a dashboard.
 
-**Key Features:**
-- Run prompts across multiple models
-- Compare outputs side-by-side
-- Score responses using custom rubrics
-- Track latency, cost, and quality metrics
-- View past experiments in a dashboard
+- Repository: https://github.com/DakaraiCodes/evalforge
+- Frontend: https://evalforge.vercel.app
+- Backend health check: https://evalforge.onrender.com/health
+- Tech stack: React, Vite, Tailwind CSS, FastAPI, SQLAlchemy, SQLite/PostgreSQL, OpenAI Python SDK, Recharts
 
-**Tech Stack:** React, Vite, Tailwind CSS, FastAPI, PostgreSQL, Render, Vercel
+What it shows:
 
----
+- Multi-model prompt evaluation workflow
+- Human-in-the-loop rubric scoring
+- REST API design with FastAPI and Pydantic
+- Database persistence with SQLAlchemy
+- Dashboard analytics and chart rendering
+- Frontend/backend deployment across Vercel and Render
 
-### TeamBoard — Collaborative Project Management App
-A Trello/Jira-style project management app designed for teams, workspaces, projects, and tasks.
+## Current Focus Areas
 
-**Key Features:**
-- User authentication
-- Workspaces and project boards
-- Task creation, status tracking, priorities, and due dates
-- Search, filtering, and dashboard views
+- Full-stack application development
+- Backend API design and data modeling
+- AI/LLM evaluation workflows
+- Frontend state management and UI implementation
+- Production-minded setup, environment variables, and deployment notes
+- Data structures, algorithms, and technical interview preparation
 
-**Tech Stack:** React, Vite, Tailwind CSS, FastAPI, SQLAlchemy, SQLite/PostgreSQL
+## Tech Stack
 
----
+### Languages
 
-### NeuraGraph — AI-Powered Knowledge Graph Builder
-An interactive tool for turning ideas and information into visual knowledge graphs.
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+- C
 
-**Key Features:**
-- Create and edit graph nodes
-- Visualize relationships between concepts
-- Organize information in a clean graph interface
-- Designed for learning, research, and AI-assisted thinking
+### Frontend
 
-**Tech Stack:** React, FastAPI, Python, Graph Visualization Tools
+- React
+- Vite
+- Tailwind CSS
+- Recharts
 
----
+### Backend
 
-## 🛠️ Tech Stack
+- FastAPI
+- Pydantic
+- SQLAlchemy
+- REST APIs
+- Node.js basics
 
-**Languages:**  
-Python, JavaScript, HTML, CSS, SQL, C
+### Databases
 
-**Frontend:**  
-React, Vite, Tailwind CSS
+- SQLite
+- PostgreSQL
 
-**Backend:**  
-FastAPI, Node.js basics, REST APIs
+### Tools and Platforms
 
-**Databases:**  
-PostgreSQL, SQLite, SQLAlchemy
+- GitHub
+- VS Code
+- Vercel
+- Render
+- npm
+- Python virtual environments
 
-**Tools & Platforms:**  
-Git, GitHub, VS Code, Vercel, Render, Google Cloud basics
+## Project Documentation Standards
 
----
+For each public project, I am working toward READMEs that include:
 
-## 📚 Currently Learning
+- Clear project purpose and scope
+- Tech stack and architecture notes
+- Local setup instructions
+- API endpoint summaries when applicable
+- Screenshot placeholders or committed screenshots
+- Deployment notes only when real links exist
+- Future improvements that reflect the actual roadmap
 
-- Data structures and algorithms
-- LeetCode problem-solving patterns
-- Cloud engineering fundamentals
-- AI/ML engineering concepts
-- Full-stack deployment best practices
+## Projects in Progress
 
----
+I am also exploring project ideas around team collaboration tools and knowledge graph interfaces. I will add public repositories and documentation when those projects are ready to share.
 
-## 🎯 Career Interests
+## Career Interests
 
-I'm interested in roles related to:
+I am interested in roles related to:
 
 - Software Engineering
 - Full-Stack Development
-- AI/ML Engineering
 - Backend Development
+- AI/ML Engineering
 - Developer Tools
 - Cloud Engineering
 
----
-
-## 📫 Connect With Me
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/dakarai-mitcham-152876296/
 - Email: dakaraimitcham@gmail.com
-
----
-
-## GitHub Focus
-
-I'm using this GitHub to document my growth as a developer and showcase projects that demonstrate real engineering ability, clean design, and practical problem-solving.
