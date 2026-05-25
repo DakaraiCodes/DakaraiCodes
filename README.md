@@ -4,7 +4,24 @@ Computer Science graduate focused on full-stack software development, AI tooling
 
 I am currently sharpening my skills in React, FastAPI, Python, JavaScript, SQL databases, API design, and cloud deployment while building projects that demonstrate real product workflows.
 
-## Featured Project
+## Featured Projects
+
+### NeuraGraph - AI Knowledge Graph Builder
+
+NeuraGraph is a full-stack AI knowledge graph product that turns pasted text into extracted entities, relationships, and an interactive graph visualization. It combines a polished React command-center interface with a FastAPI backend, spaCy entity extraction, persistence, and a React Flow graph explorer.
+
+- Repository: https://github.com/DakaraiCodes/neuragraph
+- Frontend: https://neuragraph-git-main-dakaraicodes-projects.vercel.app/dashboard
+- Backend: https://neuragraph.onrender.com
+- Tech stack: React, Vite, Tailwind CSS, React Flow, FastAPI, spaCy, SQLAlchemy, SQLite, Render, Vercel
+
+What it shows:
+
+- AI-assisted entity extraction and relationship mapping
+- Interactive graph visualization with custom React Flow nodes
+- Text ingestion workflow connected to a live backend API
+- Dashboard-style product UI with graph stats, node inspection, and results panels
+- Frontend/backend deployment across Vercel and Render
 
 ### EvalForge - LLM Evaluation Platform
 
@@ -49,6 +66,7 @@ What it shows:
 - React
 - Vite
 - Tailwind CSS
+- React Flow
 - Recharts
 
 ### Backend
@@ -56,6 +74,7 @@ What it shows:
 - FastAPI
 - Pydantic
 - SQLAlchemy
+- spaCy
 - REST APIs
 - Node.js basics
 
@@ -87,7 +106,7 @@ For each public project, I am working toward READMEs that include:
 
 ## Projects in Progress
 
-I am also exploring project ideas around team collaboration tools and knowledge graph interfaces. I will add public repositories and documentation when those projects are ready to share.
+I am also exploring project ideas around team collaboration tools, developer tooling, and AI-assisted data workflows. I will add public repositories and documentation when those projects are ready to share.
 
 ## Career Interests
 
