@@ -2,16 +2,34 @@
 
 Computer Science graduate focused on full-stack software development, AI tooling, and practical portfolio projects. I like building applications that connect a useful frontend experience with clear backend APIs, persistence, and deployment-ready structure.
 
+Portfolio: https://portfolio-dakaraicodes-projects.vercel.app
+
 I am currently sharpening my skills in React, FastAPI, Python, JavaScript, SQL databases, API design, and cloud deployment while building projects that demonstrate real product workflows.
 
 ## Featured Projects
+
+### Portfolio Website - Personal Developer Portfolio
+
+A polished React portfolio site designed to showcase my software engineering projects, full-stack skills, resume, and contact links in a recruiter-friendly format. The site includes a command-center tech stack section, product-focused project showcases, responsive layouts, and a dark modern visual system.
+
+- Repository: https://github.com/DakaraiCodes/portfolio
+- Live site: https://portfolio-dakaraicodes-projects.vercel.app
+- Tech stack: React, Vite, Tailwind CSS, JavaScript, Vercel
+
+What it shows:
+
+- Personal branding and recruiter-focused presentation
+- Responsive React component architecture
+- Premium project showcase and tech stack UI
+- Production deployment with GitHub and Vercel
+- Resume and contact access in a single live website
 
 ### NeuraGraph - AI Knowledge Graph Builder
 
 NeuraGraph is a full-stack AI knowledge graph product that turns pasted text into extracted entities, relationships, and an interactive graph visualization. It combines a polished React command-center interface with a FastAPI backend, spaCy entity extraction, persistence, and a React Flow graph explorer.
 
 - Repository: https://github.com/DakaraiCodes/neuragraph
-- Frontend: https://neuragraph-git-main-dakaraicodes-projects.vercel.app/dashboard
+- Frontend: https://neuragraph-git-main-dakicodes-projects.vercel.app/dashboard
 - Backend: https://neuragraph.onrender.com
 - Tech stack: React, Vite, Tailwind CSS, React Flow, FastAPI, spaCy, SQLAlchemy, SQLite, Render, Vercel
 
@@ -121,5 +139,6 @@ I am interested in roles related to:
 
 ## Connect
 
+- Portfolio: https://portfolio-dakaraicodes-projects.vercel.app
 - LinkedIn: https://www.linkedin.com/in/dakarai-mitcham-152876296/
 - Email: dakaraimitcham@gmail.com
