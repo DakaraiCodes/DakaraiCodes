@@ -29,7 +29,7 @@ What it shows:
 NeuraGraph is a full-stack AI knowledge graph product that turns pasted text into extracted entities, relationships, and an interactive graph visualization. It combines a polished React command-center interface with a FastAPI backend, spaCy entity extraction, persistence, and a React Flow graph explorer.
 
 - Repository: https://github.com/DakaraiCodes/neuragraph
-- Frontend: https://neuragraph-git-main-dakicodes-projects.vercel.app/dashboard
+- Frontend: https://neuragraph-git-main-dakaraicodes-projects.vercel.app/dashboard
 - Backend: https://neuragraph.onrender.com
 - Tech stack: React, Vite, Tailwind CSS, React Flow, FastAPI, spaCy, SQLAlchemy, SQLite, Render, Vercel
 
