@@ -1,5 +1,13 @@
 # Hi, I'm Dakarai Mitcham
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Dakarai%20Mitcham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20CS%20Graduate&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+software+that+feels+useful+and+creative.;Interested+in+AI%2C+full-stack%2C+games%2C+and+tools.;Currently+leveling+up+one+commit+at+a+time." />
+</p>
+
 Computer Science graduate focused on full-stack software development, AI tooling, and practical portfolio projects. I like building applications that connect a useful frontend experience with clear backend APIs, persistence, and deployment-ready structure.
 
 Portfolio: https://portfolio-dakaraicodes-projects.vercel.app
