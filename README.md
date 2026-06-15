@@ -109,8 +109,13 @@ I am interested in roles related to:
 - Developer Tools
 - Cloud Engineering
 
-## Connect
+Connect With Me
 
-- Portfolio: https://portfolio-dakaraicodes-projects.vercel.app
-- LinkedIn: https://www.linkedin.com/in/dakarai-mitcham-152876296/
-- Email: dakaraimitcham@gmail.com
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
