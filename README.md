@@ -112,7 +112,7 @@ I am interested in roles related to:
 Connect With Me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/dakaraimitcham/)">
+  <a href="https://www.linkedin.com/in/dakaraimitcham/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:dakaraimitcham@gmail.com">
