@@ -82,46 +82,6 @@ What it shows:
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,flask,html,css,git,github,mysql,unity" />
 </p>
 
-### Languages
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-- C
-
-### Frontend
-
-- React
-- Vite
-- Tailwind CSS
-- React Flow
-- Recharts
-
-### Backend
-
-- FastAPI
-- Pydantic
-- SQLAlchemy
-- spaCy
-- REST APIs
-- Node.js basics
-
-### Databases
-
-- SQLite
-- PostgreSQL
-
-### Tools and Platforms
-
-- GitHub
-- VS Code
-- Vercel
-- Render
-- npm
-- Python virtual environments
-
 ## Project Documentation Standards
 
 For each public project, I am working toward READMEs that include:
