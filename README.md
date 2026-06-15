@@ -78,6 +78,10 @@ What it shows:
 
 ## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,flask,html,css,git,github,mysql,unity" />
+</p>
+
 ### Languages
 
 - Python
