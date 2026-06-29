@@ -67,6 +67,21 @@ What it shows:
 - Dashboard analytics and chart rendering
 - Frontend/backend deployment across Vercel and Render
 
+### Jersey Journey - Basketball Career Trivia Game
+
+Jersey Journey is a replayable basketball trivia game where players guess mystery NBA players from their career team paths. It focuses on a polished game loop with run modes, hint penalties, streak tracking, final grades, and a data-driven player pool.
+
+- Repository: https://github.com/DakaraiCodes/jersey-journey
+- Tech stack: React, Vite, JavaScript, CSS, Vercel Analytics
+
+What it shows:
+
+- Interactive browser game architecture with React state management
+- Data-driven player and team-history gameplay
+- Scoring, hint, streak, and grade systems
+- Responsive UI design for a polished game experience
+- Product-minded feedback flow through an optional feedback form
+
 ## Current Focus Areas
 
 - Full-stack application development
